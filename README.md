@@ -6,3 +6,13 @@
 </div>
 
 Repository for Alura's [#7DaysOfCode](https://7daysofcode.io/) Github Challenge
+
+## :hammer: Steps from the Challenge
+
+ - `Day 1`: creating your Github repository and README.md file and stylization for your profile and README file.
+
+## License
+
+This Challeng is [Apache 2.0 licensed.](LICENSE).
+
+All documentation files (`.md`) is Creative Commons Licensed.
