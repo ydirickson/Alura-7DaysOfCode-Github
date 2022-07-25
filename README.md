@@ -5,14 +5,15 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </div>
 
-Repository for Alura's [#7DaysOfCode](https://7daysofcode.io/) Github Challenge
+Repositório para o [#7DaysOfCode](https://7daysofcode.io/) Github Challenge da Alura.
 
 ## :hammer: Steps from the Challenge
 
- - `Day 1`: creating your Github repository and README.md file and stylization for your profile and README file.
+ - `Dia 1`: criando o repositório no Gthub.com e o arquivo README.md, junto com a estilização do README e do [perfil do Github](https://github.com/ydirickson).
+ - `Dia 2`: adicionando o conteúdo estático de uma página HTML, junto com os estilos e suas imagens pela interface gráfica do Github no navegador.
+ - `Dia 3`: clonando o repositório utilizando a integração do git interna ao editor VisualStudio Code, linkando o VSCode à conta do Github.
+ - `Dia 4`: alterando o conteúdo do HTML para conter três filmes diferentes, com informações e avaliações diferentes, e subir essas modificações pela integração do VSCode.
 
 ## License
 
-This Challeng is [Apache 2.0 licensed.](LICENSE).
-
-All documentation files (`.md`) is Creative Commons Licensed.
+O código deste desafio está sobre a licença da [Apache 2.0](LICENSE).
