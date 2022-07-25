@@ -13,6 +13,7 @@ Repositório para o [#7DaysOfCode](https://7daysofcode.io/) Github Challenge da 
  - `Dia 2`: adicionando o conteúdo estático de uma página HTML, junto com os estilos e suas imagens pela interface gráfica do Github no navegador.
  - `Dia 3`: clonando o repositório utilizando a integração do git interna ao editor VisualStudio Code, linkando o VSCode à conta do Github.
  - `Dia 4`: alterando o conteúdo do HTML para conter três filmes diferentes, com informações e avaliações diferentes, e subir essas modificações pela integração do VSCode.
+ - `Dia 5`: revertendo um commit errado utilizando o `git revert`na linha de comando.
 
 ## License
 
