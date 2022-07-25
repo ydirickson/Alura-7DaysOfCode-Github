@@ -15,6 +15,7 @@ Repositório para o [#7DaysOfCode](https://7daysofcode.io/) Github Challenge da 
  - `Dia 4`: alterando o conteúdo do HTML para conter três filmes diferentes, com informações e avaliações diferentes, e subir essas modificações pela integração do VSCode.
  - `Dia 5`: revertendo um commit errado utilizando o `git revert`na linha de comando.
  - `Dia 6`: lidando com um conflito gerado por alteração no Github e no repositório local.
+ - `Dia 7`: subindo o projeto no Github Pages.
 
 ## License
 
