@@ -12,6 +12,7 @@
 body {
   max-width: 1260px;
   display: flex;
+  flex-flow: column wrap-reverse;
   align-items: center;
   justify-content: center;
   padding: 2rem;
@@ -133,4 +134,10 @@ h2 {
   font-weight: 400;
   font-size: 0.85rem;
   line-height: 1.5rem;
+}
+
+footer {
+  width: 100%;
+  color: #FFF;
+  text-align: center;
 }
