@@ -5,7 +5,7 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </div>
 
-Repositório para o [#7DaysOfCode](https://7daysofcode.io/) Github Challenge da Alura.
+Repositório para o [#7DaysOfCode](https://7daysofcode.io/) Github Challenge da Alura. Publicado na URL https://ydirickson.github.io/Alura-7DaysOfCode-Github/.
 
 ## :hammer: Steps from the Challenge
 
